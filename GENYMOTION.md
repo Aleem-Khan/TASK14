@@ -1,0 +1,1 @@
+Genymotion is primarily used as an Android emulator for developing and testing Android applications. It allows developers to simulate various Android devices and configurations, making it easier to test app functionality across different hardware and software versions without needing physical devices. 
