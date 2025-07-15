@@ -1,0 +1,1 @@
+Android Studio is primarily used for developing applications for Android-powered devices, including phones, tablets, TVs, and wearables. It's the official Integrated Development Environment (IDE) provided by Google, offering a comprehensive suite of tools to streamline the entire app development process. 
