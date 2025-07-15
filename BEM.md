@@ -1,0 +1,1 @@
+BEM (Block, Element, Modifier) naming methodology is a popular CSS naming convention used to improve the structure, maintainability, and scalability of CSS code, especially in large projects. It provides a systematic way to organize styles by breaking them down into three key components: blocks, elements, and modifiers. 
