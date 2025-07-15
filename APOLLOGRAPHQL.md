@@ -1,0 +1,1 @@
+Apollo is a comprehensive ecosystem for building, deploying, and scaling APIs. With its federated GraphQL-based approach, Apollo enables data consumers and producers to orchestrate all of their APIs with a single platform.
