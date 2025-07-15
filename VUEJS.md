@@ -1,0 +1,1 @@
+Vue.js is a JavaScript framework primarily used for building user interfaces and single-page applications (SPAs). It's known for its progressive nature, allowing developers to incrementally adopt its features and integrate it into existing projects. Vue.js leverages HTML, CSS, and JavaScript to create interactive and dynamic web interfaces. 
