@@ -1,0 +1,1 @@
+Netlify is a platform primarily used for building and deploying modern web applications and websites. It simplifies the development process by offering features like continuous deployment, serverless functions, and a global CDN, enabling faster development cycles and improved website performance. 
