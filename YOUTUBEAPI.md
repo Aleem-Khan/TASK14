@@ -1,0 +1,1 @@
+The API provides the ability to retrieve feeds related to videos, users, and playlists. It also provides the ability to manipulate these feeds, such as creating new playlists, adding videos as favorites, and sending messsages.
