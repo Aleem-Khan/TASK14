@@ -1,0 +1,1 @@
+Material UI 5 (MUI) is primarily used as a React component library that provides pre-built, customizable components based on Google's Material Design principles. It helps developers build consistent and visually appealing user interfaces for web applications and internal tools. 
