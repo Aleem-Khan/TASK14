@@ -1,0 +1,1 @@
+React is a JavaScript library primarily used for building user interfaces (UIs) for both web and mobile applications. It's particularly well-suited for creating interactive and dynamic elements on web pages or within mobile apps. React leverages a component-based architecture, allowing developers to build reusable UI components that can be combined to create complex interfaces. 
