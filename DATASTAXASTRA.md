@@ -1,0 +1,1 @@
+Astra DB is intended for generative AI use cases, with vector search and integration with AI development tools. Astra DB supports scalable, secure, and high-performance data operations, making it suitable for mission-critical applications that handle petabytes of data.
