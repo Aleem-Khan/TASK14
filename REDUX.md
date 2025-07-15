@@ -1,0 +1,1 @@
+Redux is primarily used for managing global state in JavaScript applications, especially in conjunction with libraries like React. It provides a centralized store to hold and manage application data, making it easier to share and update state across different components, reducing the need for complex prop drilling.
