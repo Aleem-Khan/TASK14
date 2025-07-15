@@ -1,0 +1,1 @@
+The Sanity SDK, specifically the App SDK, is used to build custom applications that interact with Sanity.io content in real-time. It provides React hooks and data stores, allowing developers to create tailored content experiences and manage content within their own applications. 
