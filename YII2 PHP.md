@@ -1,0 +1,1 @@
+The Yii[ji:] framework is an open-source PHP framework for rapidly-developing, modern Web applications. It is built around the Model-View-Controller composite pattern. Yii provides secure and professional features to create robust projects rapidly.
