@@ -1,0 +1,1 @@
+Firebase Storage is primarily used for storing and serving user-generated content like images, videos, and other files in web and mobile applications. It offers a scalable and secure way to handle these files, integrating seamlessly with other Firebase features like authentication and real-time database. 
