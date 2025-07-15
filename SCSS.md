@@ -1,0 +1,1 @@
+SCSS (Sassy CSS) is a preprocessor scripting language that extends CSS with features like variables, nesting, mixins, and functions, making it easier to write and manage stylesheets. It's essentially a more powerful and efficient way to write CSS, and it's compiled into standard CSS that browsers can understand. 
