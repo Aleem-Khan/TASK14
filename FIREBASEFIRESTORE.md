@@ -1,0 +1,1 @@
+Firebase Firestore is a NoSQL cloud database that allows developers to store, sync, and query data for their mobile and web applications. It's designed for scalability, real-time updates, and offline support, making it suitable for a wide range of applications, from simple data storage to complex, collaborative projects. 
